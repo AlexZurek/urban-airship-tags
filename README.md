@@ -2,7 +2,7 @@
 
 This script is something that I created to easily generate a full list of the available Tags on [Urban Airship](https://www.airship.com) for the various Tag Groups. At the time of writing this there was no easy way to view the list of Tags through the Urban Airship web interface.
 
-Check out the [Urban Airship docs](https://docs.airship.com/guides/audience/tags-named-users/#overview) for more information on Urban Airship Tags and Tag Groups.
+Check out the [Urban Airship docs](https://docs.airship.com/guides/audience/tags-named-users) for more information on Urban Airship Tags and Tag Groups.
 
 
 ## Setup
