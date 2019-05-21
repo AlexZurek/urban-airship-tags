@@ -41,11 +41,11 @@ channel_list.each do |channel|
   end
 end
 
-# Generate output
+# Generate sorted output
 tags_by_group.sort.each do |k, values|
   puts "#{k}:"
   values.to_a.sort.each do |v|
     puts "\t- #{v}"
   end
-  puts ""
+  puts
 end
